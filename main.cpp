@@ -2,7 +2,7 @@
 #include <wifi_setup.h>
 #include<mqtt.h>
 
-#define LED_PIN 32
+#define LED_PIN 2 //pin D4 in esp8266
 
 // to handle received messages from subscribe topics
 // calback function is activated when a message is received, doesnt have to be in the loop. 
