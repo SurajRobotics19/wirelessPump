@@ -3,8 +3,11 @@
 
 
 
-const char* ssid = "MFP-Guest24";
-const char* password = "testing123";
+
+//const char* ssid = "MFP-Guest24";
+//const char* password = "testing123";
+const char* ssid = "GFguestwifi_AP";
+const char* password = "GF@9300@a";
 
 
 void wifi_setup() {
